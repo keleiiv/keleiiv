@@ -1,4 +1,4 @@
-![Banner](assets/banner.png)
+![Banner](images/downloadbanner.jpg)
 <table>
 <tr>
 <td>
