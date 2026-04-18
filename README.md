@@ -15,9 +15,11 @@
 - Python  
 - C  
 - Machine Learning
-- ROS 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true) 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+- ROS
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=keleiiv&show_icons=true) 
+![Streak](https://streak-stats.demolab.com?user=keleiiv)
 
 </td>
 </tr>
