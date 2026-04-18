@@ -42,4 +42,6 @@
 
 - 🌀 AI Number Plate Detection  
 - 🍥 Drone Crack Detection System  
-- 🎐 AI Companion for Dementia  
+- 🎐 AI Companion for Dementia
+
+![Banner](images/giphy1.gif)
